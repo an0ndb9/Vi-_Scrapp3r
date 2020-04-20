@@ -18,9 +18,9 @@ python vi_scrapp3r.py <GR_Number>
 Example:
 
 python vi_scrapp3r.py 21820144
-
-![test](../media/images/Usage.png)
 ```
+
+![usage](../media/images/Usage.png)
 
 ## Additional Info:
 This project is not intended for any malicious purpose ! While browsing through our college portal I found out the AWS storage where all photos are stored by simple naming conventions and can be scrapped. 
